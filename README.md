@@ -1,4 +1,4 @@
-# Conditional-dependence graph simulations for collusion detection
+# Collusion Detection in Multi-Agent Games
 
 This repository contains the MATLAB code and saved results for an eight-agent,
 two-action coordination-game experiment. The statistical target is the
